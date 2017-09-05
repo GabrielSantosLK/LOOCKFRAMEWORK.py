@@ -94,7 +94,15 @@ def send_mail():
  ╚══════╝╚══════╝╚═╝  ╚═══╝╚═════╝               ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝╚═╝        ╚═╝
            X---------------------------------------------------------------------X                                                        
            | By: Loock Underwood // My Github: https://github.com/LoockUnderwood |                                                                                                                                                                                            
-           X---------------------------------------------------------------------X ''')
+           X---------------------------------------------------------------------X
+
+           
+ \n OBS: - É NECESSÁRIO PERMITIR LOGUINS NO SEU GMAIL SEM SER PELO SITE.
+ \n OBS: - CALMA, ISSO NÃO VAI VAZAR OS SEUS DADOS.
+
+ \n [!]  - BASTA ACESSAR ESTE LINK E ATIVAR, DEPOIS DO PROCESSO PODES DESATIVAR.
+
+ \n [!]  - LINK: myaccount.google.com/lesssecureapps ''')
  
     de = input('\n [!]  - Digite o seu Email: ')
     sen = getpass.getpass("\n [!] - Digite a sua Senha: ")
