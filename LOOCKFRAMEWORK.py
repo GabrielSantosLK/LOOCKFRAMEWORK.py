@@ -8,7 +8,7 @@ import getpass
 import webbrowser
 import os
  
-print('\n © 2017 Copyright TODOS OS DIREITOS RESERVADOS POR LOOCK UNDERWOOD')
+print('\n © 2017 Copyright TODOS OS DIREITOS RESERVADOS POR GABRIEL SANTOS')
  
 print('''
  
@@ -23,7 +23,7 @@ print('''
  
 ----------------------------------------------------------------------------------------------------------------------------------
  X------------------------------------X
- |    By: Loock Underwood e Lord13    |
+ |    By: Gabriel Santos e Lord13     |
  X------------------------------------X
  
 \n [!] ESCOLHA UMA OPTION:
@@ -44,7 +44,7 @@ def blog_view():
  ██████╔╝███████╗╚██████╔╝╚██████╔╝               ╚████╔╝ ██║███████╗╚███╔███╔╝    
  ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝                 ╚═══╝  ╚═╝╚══════╝ ╚══╝╚══╝
    X---------------------------------------------------------------------X                                                        
-   | By: Loock Underwood // My Github: https://github.com/LoockUnderwood |                                                                                                                                                                                            
+   | By: Gabriel Santos // My Github: https://github.com/LoockUnderwood  |                                                                                                                                                                                            
    X---------------------------------------------------------------------X ''')
  
     url = input("\n [!] -  Coloque a Url do Blog: ")
@@ -73,7 +73,7 @@ def buscip():
  ██████╔╝╚██████╔╝███████║╚██████╗██║██║                   ███████║██║   ██║   ███████╗███████║
  ╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝╚═╝╚═╝                   ╚══════╝╚═╝   ╚═╝   ╚══════╝╚══════╝
            X---------------------------------------------------------------------X                                                        
-           | By: Loock Underwood // My Github: https://github.com/LoockUnderwood |                                                                                                                                                                                            
+           | By: Gabriel Santos // My Github: https://github.com/LoockUnderwood  |                                                                                                                                                                                            
            X---------------------------------------------------------------------X ''')
    
     end = input("\n [+] - Digite o ENDEREÇO do site: ")
@@ -93,7 +93,7 @@ def send_mail():
  ███████║███████╗██║ ╚████║██████╔╝              ██║ ╚═╝ ██║██║  ██║██║███████╗██╗██║        ██║  
  ╚══════╝╚══════╝╚═╝  ╚═══╝╚═════╝               ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝╚═╝        ╚═╝
            X---------------------------------------------------------------------X                                                        
-           | By: Loock Underwood // My Github: https://github.com/LoockUnderwood |                                                                                                                                                                                            
+           | By: Gabriel Santos // My Github: https://github.com/LoockUnderwood  |                                                                                                                                                                                            
            X---------------------------------------------------------------------X
 
            
